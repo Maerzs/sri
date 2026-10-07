@@ -1,0 +1,6 @@
+datasets
+numpy
+openai
+python-dotenv
+scikit-learn
+evalplus
